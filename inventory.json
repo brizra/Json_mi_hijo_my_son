@@ -1,5 +1,4 @@
-[
-{
+[{
   "Username": "marcso",
   "Item1": "manzana",
   "Item2": "pera",
@@ -12,9 +11,15 @@
   "Item3": "estaño"
 },
 {
-  "Username": "ElCALVOdeGonzalo",
+  "Username": "ElGonzalo",
   "Item1": "pelazo",
   "Item2": "metralleta",
   "Item3": "un crack"
 }
-]
+,
+ {
+  "Username": "Ciruela",
+  "Item1": "pijama de unicornio",
+  "Item2": "rigidbody",
+  "Item3": "comunicación de locos"
+}]
